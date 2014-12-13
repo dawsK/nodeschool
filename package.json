@@ -1,0 +1,12 @@
+{
+    "name": "nodeschool",
+    "version": "1.0.0",
+    "description": "Exercise solutions from the workshoppers at nodeschool.io",
+    "dependencies": {
+        "concat-stream": "1.4.7"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dawsK/nodeschool.git"
+    }
+}
