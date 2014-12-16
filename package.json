@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Exercise solutions from the workshoppers at nodeschool.io",
   "dependencies": {
-    "concat-stream": "1.4.7",
-    "moment": "2.8.4"
+    "concat-stream": "^1.4.7",
+    "moment": "^2.8.4",
+    "through2-map": "^1.4.0"
   },
   "repository": {
     "type": "git",
