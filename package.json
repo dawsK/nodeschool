@@ -5,6 +5,8 @@
   "dependencies": {
     "concat-stream": "^1.4.7",
     "moment": "^2.8.4",
+    "split": "^0.3.2",
+    "through": "^2.3.6",
     "through2-map": "^1.4.0"
   },
   "repository": {
