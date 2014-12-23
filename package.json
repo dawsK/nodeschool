@@ -4,6 +4,7 @@
   "description": "Exercise solutions from the workshoppers at nodeschool.io",
   "dependencies": {
     "concat-stream": "^1.4.7",
+    "duplexer": "^0.1.1",
     "moment": "^2.8.4",
     "request": "^2.51.0",
     "split": "^0.3.2",
